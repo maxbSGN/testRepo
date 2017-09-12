@@ -1,5 +1,6 @@
 node {
   //Comment
   stage 'Build'
-  sh 'lsss'
+  sh 'ls'
+  sh 'ls'
 }
